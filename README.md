@@ -1,4 +1,4 @@
-# Guess Game with Rust - 
+# Guess Game with Rust
 
 id: rust-learn-1
 
