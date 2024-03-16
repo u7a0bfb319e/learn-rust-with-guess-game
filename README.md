@@ -9,7 +9,7 @@ After each guess, the program will provide feedback to the player, indicating wh
 ## v1.0.0
 - [x] 0-3 random number
 ## v1.0.1
-- [ ] range select
+- [x] range select
 ## v1.0.2
 - [ ] play name
 - [ ] save game records to JSON
